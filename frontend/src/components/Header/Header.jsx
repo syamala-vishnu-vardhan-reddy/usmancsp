@@ -38,37 +38,6 @@ const Header = () => {
           <LinkContainer to="login?redirect=supplier">
             <Nav.Link className="nav-cal">SUPPLIER</Nav.Link>
           </LinkContainer>
-          <Nav>
-            <a
-              href="http://127.0.0.1:5000/crop-recommend"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="nav-call"
-            >
-              CROPS
-            </a>
-          </Nav>
-          <Nav>
-            <a
-              href="http://127.0.0.1:5000/fertilizer"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="nav-call"
-              styles={{ margin: "10px" }}
-            >
-              FERTILIZERS
-            </a>
-          </Nav>
-          <Nav>
-            <a
-              href="http://127.0.0.1:5000/disease-predict"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="nav-call"
-            >
-              DISEASES
-            </a>
-          </Nav>
 
           <LinkContainer to="/cart">
             <Nav.Link

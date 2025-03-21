@@ -105,11 +105,11 @@ const Footer = () => {
                 <i className="fa fa-home mr-3" /> VVIT,Nambur.
               </p>
               <p>
-                <i className="fa fa-envelope mr-3" /> vvishnusyamala@gmail.com
+                <i className="fa fa-envelope mr-3" /> usmanbasha786@gmail.com
               </p>
               <p>
                 <i className="fa fa-phone mr-3" />
-                +91 8978712843
+                +91 98486 09417
               </p>
               <p>
                 <i className="fa fa-print mr-3" /> +91 8374149629
@@ -143,7 +143,7 @@ const Footer = () => {
         </MDBContainer>
         <div className="footer-copyright text-center py-3">
           <MDBContainer fluid>
-            &copy; {new Date().getFullYear()} Copyright: vishnu
+            &copy; {new Date().getFullYear()} Copyright: shaik usman basha
           </MDBContainer>
         </div>
       </MDBFooter>

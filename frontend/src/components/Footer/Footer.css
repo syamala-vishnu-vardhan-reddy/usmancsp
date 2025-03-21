@@ -17,12 +17,12 @@
 
 .fa
 {
-  color: #008f11;
+  color: #00aced;
 }
 
 .site-footer
 {
-  background-color:#008f11 !important;
+  background-color:#00aced !important;
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
@@ -51,7 +51,7 @@
 }
 .site-footer a:hover
 {
-  color:#008f11;
+  color:#00aced;
   text-decoration:none;
 }
 .footer-links
@@ -69,7 +69,7 @@
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
-  color:#008f11;
+  color:#00aced;
   text-decoration:none;
 }
 .footer-links.inline li
