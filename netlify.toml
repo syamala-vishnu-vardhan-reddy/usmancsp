@@ -1,0 +1,6 @@
+
+
+[dev]
+  command = "npm start --prefix frontend"
+  port = 3000
+  targetPort = 5000
